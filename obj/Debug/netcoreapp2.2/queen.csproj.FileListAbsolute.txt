@@ -1,0 +1,10 @@
+c:\dev-project\epicodus_code\week-8C#\queen-attack\obj\Debug\netcoreapp2.2\queen.csprojAssemblyReference.cache
+c:\dev-project\epicodus_code\week-8C#\queen-attack\obj\Debug\netcoreapp2.2\queen.AssemblyInfoInputs.cache
+c:\dev-project\epicodus_code\week-8C#\queen-attack\obj\Debug\netcoreapp2.2\queen.AssemblyInfo.cs
+c:\dev-project\epicodus_code\week-8C#\queen-attack\bin\Debug\netcoreapp2.2\queen.deps.json
+c:\dev-project\epicodus_code\week-8C#\queen-attack\bin\Debug\netcoreapp2.2\queen.runtimeconfig.json
+c:\dev-project\epicodus_code\week-8C#\queen-attack\bin\Debug\netcoreapp2.2\queen.runtimeconfig.dev.json
+c:\dev-project\epicodus_code\week-8C#\queen-attack\bin\Debug\netcoreapp2.2\queen.dll
+c:\dev-project\epicodus_code\week-8C#\queen-attack\bin\Debug\netcoreapp2.2\queen.pdb
+c:\dev-project\epicodus_code\week-8C#\queen-attack\obj\Debug\netcoreapp2.2\queen.dll
+c:\dev-project\epicodus_code\week-8C#\queen-attack\obj\Debug\netcoreapp2.2\queen.pdb
